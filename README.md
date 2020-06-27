@@ -7,7 +7,7 @@ This page established to organize the read section in 301 course. So, you can ac
 
 Read# | Link
 ---------|---------
-Read 1   |[Link 01](https://github.com/MohammedGhafri/301-reading-notes/class01)
+Read 1   |[Link 01](https://mohammedghafri.github.io/301-reading-notes/class01)
 Read 2   |[Link 02](02)
 Read 3   |[Link 03](03)
 Read 4   |[Link 04](04)
