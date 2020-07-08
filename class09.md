@@ -26,5 +26,14 @@ When data is immutable, its state cannot change after it’s created. If you wan
 
 > pure functions + immutable data = referential transparency
 
+
+# Second part of read 09 : Refactoring JavaScript for Performance and Readability
+
+It a way to rewrite  Some of the codes that took  to the extreme and became very quick at the cost of being totally unmaintainable.
+
+It's important to get your code right the first time because in many businesses there isn't much value in refactoring. Or at least, it's hard to convince stakeholders that eventually uncared for codebases will grind productivity to a halt.
+
+
+
 # THe End
 
