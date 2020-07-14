@@ -20,6 +20,6 @@ Read 10  |[Link 10](https://mohammedghafri.github.io/301-reading-notes/class10)
 Read 11  |[Link 11](https://mohammedghafri.github.io/301-reading-notes/class11)
 Read 12  |[Link 12](https://mohammedghafri.github.io/301-reading-notes/class12)
 Read 13  |[Link 13](https://mohammedghafri.github.io/301-reading-notes/class13)
-Read 14  |[Link 14](https://mohammedghafri.github.io/301-reading-notes/class14)
+Read 14  |[Link 14](https://mohammedghafri.github.io/301-reading-notes/class14a)
 Read 15  |[Link 15](https://mohammedghafri.github.io/301-reading-notes/class15)
 
